@@ -1,14 +1,11 @@
-# Hook Landing Page Theme
+# Lost In Chernarus - A DayZ Mod 
 
-This landing page theme is built on [shorthand css framework](https://github.com/shorthandcss/shorthand)
-
-![preview](/preview.jpg)
 
 ## Credit
-
+* Theme [bansal](https://github.com/bansal/hook-theme)
 * Picture [unsplash](https://unsplash.com)
 * Icons [feathericons](https://feathericons.com)
 
 ## LICENSE
 
-The theme is available under the MIT License.
+This repository is available under the MIT License.
